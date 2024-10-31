@@ -3,6 +3,7 @@
 
 #include <cfloat>
 #include <string>
+#include <cstdint>
 
 enum calculation_method { LINKFIND, COMPUTEPAIRS, ALEXANDER};
 enum output_location { LOC_NONE, LOC_YES};
